@@ -12,11 +12,10 @@ The purpose of this project was to
 
 1. Naive Random Oversampling
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
 <p align="center"><img src="https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_BAS.png?raw=true"></p>
     
-   - Precision and recall scores:
-    
+   - Precision and recall scores:  
    <p align="center"><img src="https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_ICR.png?raw=true"></p>
     
 2. SMOTE Oversampling
