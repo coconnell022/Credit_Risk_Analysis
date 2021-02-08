@@ -10,65 +10,65 @@ The purpose of this project was to
 
 ## Results
 
-**1. Naive Random Oversampling**
+######1. Naive Random Oversampling
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_BAS.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_BAS.png?raw=true)
 
-    - Precision and recall scores:
+   - Precision and recall scores:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_ICR.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_ICR.png?raw=true)
     
-**2. SMOTE Oversampling**
+######2. SMOTE Oversampling
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling_BAS.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling_BAS.png?raw=true)
 
-    - Precision and recall scores:
+   - Precision and recall scores:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling_ICR.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling_ICR.png?raw=true)
 
-**3. ClusterCentroids Undersampling**
+######3. ClusterCentroids Undersampling
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Undersampling_BAS.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Undersampling_BAS.png?raw=true)
 
-    - Precision and recall scores:
+   - Precision and recall scores:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Undersampling_ICR.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Undersampling_ICR.png?raw=true)
 
-**4. SMOTEENN Combination**
+######4. SMOTEENN Combination
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Combination_BAS.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Combination_BAS.png?raw=true)
 
-    - Precision and recall scores:
+   - Precision and recall scores:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Combination_ICR.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTEENN%20Combination_ICR.png?raw=true)
 
-5. Balanced Random Forest Classifier
+######5. Balanced Random Forest Classifier
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier_BAS.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier_BAS.png?raw=true)
 
-    - Precision and recall scores:
+   - Precision and recall scores:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier_ICR.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier_ICR.png?raw=true)
 
-6. Easy Ensemble AdaBoost Classifier
+######6. Easy Ensemble AdaBoost Classifier
 
-    - Balanced accuracy score:
+   - Balanced accuracy score:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_BAS.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_BAS.png?raw=true)
 
-    - Precision and recall scores:
+   - Precision and recall scores:
     
-    ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_ICR.png?raw=true)
+   ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_ICR.png?raw=true)
 
 ## Summary
 
