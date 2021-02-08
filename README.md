@@ -10,7 +10,7 @@ The purpose of this project was to
 
 ## Results
 
-1. Naive Random Oversampling
+**1. Naive Random Oversampling**
 
     - Balanced accuracy score:
     
@@ -20,7 +20,7 @@ The purpose of this project was to
     
     ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/Naive%20Random%20Oversampling_ICR.png?raw=true)
     
-2. SMOTE Oversampling
+**2. SMOTE Oversampling**
 
     - Balanced accuracy score:
     
@@ -30,7 +30,7 @@ The purpose of this project was to
     
     ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling_ICR.png?raw=true)
 
-3. ClusterCentroids Undersampling
+**3. ClusterCentroids Undersampling**
 
     - Balanced accuracy score:
     
@@ -40,7 +40,7 @@ The purpose of this project was to
     
     ![alt text](https://github.com/coconnell022/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids%20Undersampling_ICR.png?raw=true)
 
-4. SMOTEENN Combination
+**4. SMOTEENN Combination**
 
     - Balanced accuracy score:
     
